@@ -1,5 +1,5 @@
 # cov2_3d
-3d mutation networks for Russian genomes and their ancestors
+3d mutation networks for Russian SARS-CoV-2 genomes and their ancestors
 
 graphs are saved as html files which can be opened in browser
 
